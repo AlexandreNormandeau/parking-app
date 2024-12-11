@@ -1,0 +1,37 @@
+{
+    "parking_spots": [
+        {
+            "spotNumber": "PORTAGE-001",
+            "latitude": 49.895123,
+            "longitude": -97.138456,
+            "type": "paid",
+            "rate": "$3.50/hour",
+            "restrictions": "2 hour maximum",
+            "isOccupied": false,
+            "location": "Portage Avenue",
+            "description": "Near Portage Place"
+        },
+        {
+            "spotNumber": "MAIN-001",
+            "latitude": 49.895733,
+            "longitude": -97.138293,
+            "type": "paid",
+            "rate": "$4.00/hour",
+            "restrictions": "3 hour maximum",
+            "isOccupied": false,
+            "location": "Main Street",
+            "description": "Near Richardson Building"
+        },
+        {
+            "spotNumber": "GRAHAM-001",
+            "latitude": 49.896245,
+            "longitude": -97.139366,
+            "type": "hourly",
+            "rate": "$2.50/hour",
+            "restrictions": "1 hour maximum",
+            "isOccupied": false,
+            "location": "Graham Avenue",
+            "description": "Near City Hall"
+        }
+    ]
+} 

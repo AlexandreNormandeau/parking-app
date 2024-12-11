@@ -35,7 +35,7 @@
         },
         {
             "spotNumber": "GRAHAM-003",
-            "latitude": 49.896245,
+            "latitude": 49.896244,
             "longitude": -97.139366,
             "type": "hourly",
             "rate": "$2.50/hour",

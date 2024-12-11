@@ -21,6 +21,17 @@
             "isOccupied": false,
             "location": "Graham Avenue",
             "description": "Near MTS Centre"
+        },
+        {
+            "spotNumber": "DT-003",
+            "latitude": 49.896220,
+            "longitude": -97.139366,
+            "type": "hourly",
+            "rate": "$2.00/hour",
+            "restrictions": "1 hour maximum",
+            "isOccupied": true,
+            "location": "Graham Avenue",
+            "description": "Near MTS Centre"
         }
     ]
 } 

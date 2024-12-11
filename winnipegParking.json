@@ -32,6 +32,17 @@
             "isOccupied": false,
             "location": "Graham Avenue",
             "description": "Near City Hall"
+        },
+        {
+            "spotNumber": "GRAHAM-003",
+            "latitude": 49.896245,
+            "longitude": -97.139366,
+            "type": "hourly",
+            "rate": "$2.50/hour",
+            "restrictions": "1 hour maximum",
+            "isOccupied": false,
+            "location": "Graham Avenue",
+            "description": "Near City Hall"
         }
     ]
 } 
